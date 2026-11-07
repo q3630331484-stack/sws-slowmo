@@ -1,0 +1,11 @@
+{
+  "hotkey": "F8",
+  "speed": 0.3,
+  "beep": true,
+  "require_foreground": true,
+  "game_path": "D:\\steam\\steamapps\\common\\Sword With Sauce\\SwordWithSauce2_4_0\\Binaries\\Win64\\SwordWithSauce-Win64-Shipping.exe",
+  "process_name": "SwordWithSauce-Win64-Shipping.exe",
+  "steam_appid": "581630",
+  "launch_via_steam": true,
+  "start_timeout_sec": 150
+}
